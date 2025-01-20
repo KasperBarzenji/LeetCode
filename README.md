@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KasperBarzenji/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/KasperBarzenji/LeetCode/tree/master/0020-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/KasperBarzenji/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KasperBarzenji/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
